@@ -1,0 +1,4 @@
+baseURL = 'simplyinquisitive.github.io'
+languageCode = 'en-us'
+title = 'Kritrim'
+theme = 'PaperMod'
