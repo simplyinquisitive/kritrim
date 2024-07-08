@@ -4,6 +4,6 @@ date = 2024-07-08T19:43:26+05:30
 draft = false
 +++
 
-This is my first website.
+This is my first post.
 I am excited to share my thoughts with the world.
 Please stay tuned.
