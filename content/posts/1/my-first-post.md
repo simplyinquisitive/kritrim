@@ -5,7 +5,7 @@ draft = false
 # tags = ["random"]
 # categories = ["random"]
 [cover]
-  image = "posts/my-first-post-img.webp"
+  image = "posts/1/my-first-post-img.webp"
   alt = "Photo by Kaique Rocha from Pexels"
   caption = "New Beginnings"
   relative = true
