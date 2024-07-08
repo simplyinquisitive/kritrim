@@ -8,4 +8,6 @@ draft = false
 
 This is my first post.
 I am excited to share my thoughts with the world.
-Please stay tuned.
+Please stay tuned.\
+
+Built with Hugo
