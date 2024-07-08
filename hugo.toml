@@ -1,6 +1,6 @@
 baseURL = 'kritrim.xyz'
 languageCode = 'en-us'
-title = 'Kritrim'
+title = '/home/ kritrim'
 theme = 'PaperMod'
 
 [[menu.main]]
