@@ -1,6 +1,6 @@
 baseURL = 'kritrim.xyz'
 languageCode = 'en-us'
-title = '/home/ kritrim'
+title = '/home/kritrim'
 theme = 'PaperMod'
 
 [[menu.main]]
@@ -35,6 +35,9 @@ home = ["HTML", "RSS", "JSON"]
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my artificial brain dump! This is where I jot down my thoughts, share my explorations, and document my tech escapades. Sometimes I build cool stuff and troubleshoot technical nightmares, I've got it all documented here. Feel free to look around&mdash; find all posts in the [Archives](/archives/) or delve into specific topics through [Categories](/categories/) or [Tags](/tags/). I hope you can find something useful."
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
