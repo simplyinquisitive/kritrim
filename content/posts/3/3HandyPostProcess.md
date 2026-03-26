@@ -1,7 +1,7 @@
 +++
 title = "How to Post-Process Your Handy Speech-to-Text Transcripts Locally with LM Studio"
-date = 2026-03-26T00:00:00+05:30
-draft = true
+date = 2026-03-26T15:37:00+05:30
+draft = false
 tags = ["Speech-to-Text", "LM Studio", "Handy", "Post-Processing", "Local AI", "Open Source"]
 categories = ["Tech Tips", "Tutorials"]
 [cover]
