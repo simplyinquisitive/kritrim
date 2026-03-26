@@ -5,7 +5,7 @@ draft = false
 tags = ["Speech-to-Text", "LM Studio", "Handy", "Post-Processing", "Local AI", "Open Source"]
 categories = ["Tech Tips", "Tutorials"]
 [cover]
-  image = "posts/3/banner.png"
+  image = "posts/3/banner.webp"
   relative = true
 +++
 
