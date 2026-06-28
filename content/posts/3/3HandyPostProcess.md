@@ -19,6 +19,8 @@ Download and install LM Studio from the [official website](https://lmstudio.ai/)
 
 ## 2. Download a Post-Processing Model of Your Choice
 
+> **UPDATE #1:** A new, improved version of the post-processing model used in this tutorial is now available to try. Just replace the model name in the search bar with `bingbangboom/Qwen3006B-transcriber-beta-expanded-594-v2-GGUF` and choose the Q8_0 variant. All other setup steps remain similar. Direct Hugging Face link: [bingbangboom/Qwen3006B-transcriber-beta-expanded-594-v2-GGUF](https://huggingface.co/bingbangboom/Qwen3006B-transcriber-beta-expanded-594-v2-GGUF)
+
 For this tutorial, we will be downloading a post-processing model from the [Hugging Face Model Hub](https://huggingface.co/bingbangboom/Qwen3006B-transcriber-beta) via the LM Studio UI.
 
 Launch LM Studio and click on the **Model Search** icon in the left sidebar. Search for `bingbangboom/Qwen3006B-transcriber-beta` and choose the appropriate quantization variant for your system. Click the **Download** button to download the model to your local machine. For the purpose of this tutorial, we will be using the Q8_0 model variant.
@@ -56,8 +58,8 @@ Additionally, the model page recommends disabling thinking for this Qwen3-based 
 ```
 
 | ![Load Tab](/posts/3/2.png) | ![Inference Tab](/posts/3/3.png) |
-|:--:|:--:|
-| Load Tab | Inference Tab |
+| :-------------------------: | :------------------------------: |
+|          Load Tab           |          Inference Tab           |
 
 ## 4. Serve the Post-Processing Model
 
